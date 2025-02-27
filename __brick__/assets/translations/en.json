@@ -1,0 +1,48 @@
+{
+  "greeting": {
+    "title": "Hi {}!",
+    "subtitle": "Good {}",
+    "morning": "morning",
+    "afternoon": "afternoon",
+    "night": "night"
+  },
+  "welcome": {
+    "title": "Welcome!",
+    "subtitle": "Let's schedule your projects"
+  },
+  "projects": {
+    "title": "Ongoing Projects",
+    "view_all": "view all",
+    "progress": "Progress"
+  },
+  "ai_models": {
+    "title": "AI Models",
+    "view_all": "view all"
+  },
+  "categories": {
+    "e_commerce": "E-Commerce",
+    "portal": "Portal",
+    "marketing": "Marketing",
+    "task_manager": "Task Manager"
+  },
+  "navigation": {
+    "home": "Home",
+    "my_progress": "Progress",
+    "profile": "Profile",
+    "search": "Search"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Dark Theme",
+    "language": "Language",
+    "languages": {
+      "english": "English",
+      "vietnamese": "Vietnamese"
+    }
+  },
+  "donet": {
+    "title": "Donet",
+    "description": "If you love this app, consider buying me a beer! Your support helps keep this project alive and brewing fresh updates. ☕❤️",
+    "dialog_content": "Please choose a donet platform"
+  }
+}

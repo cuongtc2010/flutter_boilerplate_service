@@ -1,0 +1,43 @@
+{
+  "greeting": {
+    "title": "Xin chào {}!",
+    "subtitle": "Chào {}",
+    "morning": "buổi sáng",
+    "afternoon": "buổi chiều",
+    "night": "buổi tối"
+  },
+  "welcome": {
+    "title": "Chào mừng!",
+    "subtitle": "Hãy lên lịch cho dự án của bạn"
+  },
+  "ai_models": {
+    "title": "Mô hình AI",
+    "view_all": "xem tất cả"
+  },
+  "categories": {
+    "e_commerce": "Thương mại điện tử",
+    "portal": "Cổng thông tin",
+    "marketing": "Tiếp thị",
+    "task_manager": "Quản lý công việc"
+  },
+  "navigation": {
+    "home": "Home",
+    "my_progress": "Progress",
+    "profile": "Profile",
+    "search": "Search"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "theme": "Giao diện tối",
+    "language": "Ngôn ngữ",
+    "languages": {
+      "english": "Tiếng Anh",
+      "vietnamese": "Tiếng Việt"
+    }
+  },
+  "donet": {
+    "title": "Donet",
+    "description": "Nếu bạn yêu thích ứng dụng này, hãy ủng hộ tôi một ly bia! Sự hỗ trợ của bạn giúp duy trì và phát triển dự án này. ☕❤️",
+    "dialog_content": "Vui lòng chọn nền tảng donet"
+  }
+}

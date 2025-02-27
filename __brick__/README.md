@@ -1,6 +1,6 @@
-# example
+# beta_ai
 
-Flutter Boilerplate Service
+BetaAI App version
 
 ## Getting Started
 
